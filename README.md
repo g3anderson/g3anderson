@@ -12,7 +12,7 @@
 
 ## 🌱 Projetos em Destaque
 - [projetoContaBanco](#) → Simulação de sistema bancário em Java  
-- [Emprestimo-de-Livros](#) → Sistema simples de cadastro e empréstimo de livros  
+- [desafio-GabrielAnderson-2025](#) → Sistema simples de adoção de animais (Teste técnico - DB 2025)  
 - [AudiovisualController](#) → Controle de equipamentos audiovisuais  
 
 📫 Entre em contato: [LinkedIn](https://linkedin.com/in/gabriel-anderson-408642214) | [Email](mailto:gfernando3.a@gmail.com)
