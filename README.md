@@ -1,4 +1,5 @@
 ## 👋 Olá — eu sou o Gabriel Anderson (g3anderson)
+#
 
 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas  
 💻 **Desenvolvedor Backend** — apaixonado por **Java** e **Python**  
